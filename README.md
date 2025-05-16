@@ -29,14 +29,23 @@ Sexto passo: Colocar a lâmpada reserva
 
 3º QUESTÃO
 ° Leva o bode para o outro lado do rio 
+
 ° Volta
+
 ° Pega a alfafa e leva para o outro lado 
+
 ° Leva o bode novamente 
+
 ° Deixa o bode no lugar inicial 
+
 ° Pega o lobo 
+
 ° Leva o lobo para o outro lado 
+
 ° Volta 
+
 ° Pega o bode 
+
 ° Leva o bode para outro lado 
 
 4º QUESTÃO
