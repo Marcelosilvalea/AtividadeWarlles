@@ -1,4 +1,5 @@
 # AtividadeWarlles
+
 1º QUESTÃO
 Primeiro passo: Buscar escada 
 Segundo passo: Buscar a lâmpada reserva
@@ -6,6 +7,7 @@ Terceiro passo: Posicionar a escada embaixo da lâmpada
 Quarto passo: Subir na escada
 Quinto passo: Retirar a lâmpada velha 
 Sexto passo: Colocar a lâmpada reserva 
+
 2° QUESTÃO
 1- Descobrir quais são os numeros para serem divididos 
 2- Dividir os números por fatores primos  
@@ -13,6 +15,7 @@ Sexto passo: Colocar a lâmpada reserva
 4- Pegar os numeros que se repetem menos vezes 
 5- Mutiplicalos 
 6- O resultado da mutiplicação é erquivalente a 12
+
 3º QUESTÃO
 ° Leva o bode para o outro lado do rio 
 ° Volta
@@ -24,6 +27,7 @@ Sexto passo: Colocar a lâmpada reserva
 ° Volta 
 ° Pega o bode 
 ° Leva o bode para outro lado 
+
 4º QUESTÃO
 - Vai dois canibais
 - O canibal volta
@@ -34,6 +38,7 @@ Sexto passo: Colocar a lâmpada reserva
 - O canibal leva o último jesuíta
 - O canibal volta
 - O canibal leva o último canibal
+  
   5º QUESTÃO
   - pega o um e coloca no segundo haste
   - pega o dois e coloca no terceiro haste
@@ -42,6 +47,7 @@ Sexto passo: Colocar a lâmpada reserva
   - pega o um e coloca no primeiro haste
   - pega o dois e coloca no segundo haste
   - pega o um e coloca no segundo haste
+    
     6º QUESTÃO
     Amanda- livro
     Elisa- candeiro
@@ -49,6 +55,7 @@ Sexto passo: Colocar a lâmpada reserva
     Camila- Bolsa
     Divina- gravata
     Filomena- chapéu
+    
      7º QUESTÃO
     - encher A
     - passar de A pra B
@@ -58,6 +65,7 @@ Sexto passo: Colocar a lâmpada reserva
     - passar de A pra B
     - passar de B pra C
     - passar de C pra A
+      
       8º QUESTÃO
       João toca Harpa
       Francisco toca Piano
