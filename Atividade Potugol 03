@@ -1,0 +1,28 @@
+programa {
+  funcao inicio() {
+    //Declaração de variáveis
+
+    real nota1,nota2,nota3,nota4,media_aritmetica
+
+    //Entrada de dados
+
+    escreva("informe a primeira nota: ")
+    leia(nota1)
+
+    escreva("informe a segunda nota: ")
+    leia(nota2)
+
+    escreva("informe a terceira nota: ")
+    leia(nota3)
+
+    escreva("informe a quarta nota: ")
+    leia(nota4)
+
+    //Processamento
+
+    media_aritmetica = (nota1+nota2+nota3+nota4) / 4 
+
+    //Saída de dados
+    escreva("A média aritmetica é: ", media_aritmetica)
+  }
+}
