@@ -1,0 +1,25 @@
+programa {
+  funcao inicio() {
+    //Declaração de variáveis
+
+    real gasto1,gasto2,gasto3,media_aritmetica
+
+    //Entrada de dados
+
+    escreva("informe o primeiro gasto: ")
+    leia(gasto1)
+
+    escreva("informe o segundo gasto: ")
+    leia(gasto2)
+
+    escreva("informe o treceiro gasto: ")
+    leia(gasto3)
+
+    //Processamento
+
+    media_aritmetica = (gasto1+gasto2+gasto3) / 3 
+
+    //Saída de dados
+    escreva("A média aritmetica é: ", media_aritmetica)
+  }
+}
