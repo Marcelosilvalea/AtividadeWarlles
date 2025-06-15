@@ -170,3 +170,47 @@ escreva("Valor restante em reais: ", saldo_final)
 
   }
 }
+Letra I
+//Declaração de variavéis 
+    cadeia nome, cnpj, endereco, telefone, email, data_orcamento
+
+    //Exibição do cabeçalho 
+    escreva("----------------------------------\n")
+    escreva("       Holerite de orçamento      \n")
+    escreva("----------------------------------\n")
+    escreva("Nome da empresa: ", nome, "\n")
+    leia(nome)
+    escreva("Endereço: ", endereco, "\n")
+    leia(endereco)
+    escreva("Telefone: ", telefone, "\n")
+    leia(telefone)
+    escreva("E-mail: ", email, "\n")
+    leia(email)
+    escreva("Data: ", data_orcamento, "\n")
+    leia(data_orcamento)
+
+    //Tabela de descrição dos itens
+    escreva("----------------------------------------------------------------------\n")
+    escreva("|Descrição                  \      |   Qtd   \|    Preço    \| Total(R$)|", "\n")
+    escreva("|                                 |         | Unitário(R$)|          |", "\n")
+    escreva("|---------------------------------|---------|-------------|----------|\n")
+    escreva("|Notebook Lenovo IdeaPad 3", "        |    1   ", " |   3200.00  " ," |  3200.00 |", "\n")
+    escreva("|Impressora HP LaserJet Pro", "       |    1   ", " |  1100.00", "    |  1100.00 |", "\n")
+    escreva("|Pacote de papel A4 500fls", "        |    5   ", " |   35.00", "     |   175.00 |", "\n")
+    escreva("|Licença MS Office 365 (anual)", "    |    1  ", "  |   420.00 ", "   |   420.00 |", "\n")
+    escreva("|Serviço de Instalação de Software", "|    1  ", "  |   150.00 ", "   |   150.00 |", "\n")
+    escreva("|---------------------------------------------------------|----------|\n")
+    escreva("|                                             Total Geral:|5045.00   |", "\n")
+    escreva("----------------------------------------------------------------------\n")
+
+    //Observações 
+    escreva("                                                  \n")
+    escreva("Observações:                                      \n")
+    escreva("Orçamento válido por 10 dias úteis.", "\n")
+    escreva("Valores sujeitos à disponibilidade em estoque.", "\n")
+    escreva("Pagamento via transferência bancária ou PIX.", "\n")
+
+    //Assinatura
+    escreva("                                                        \n")
+    escreva("Responsável pelo orçamento: João Silva Vendas Corporativas", "\n")
+    escreva("Assinatura: ")
